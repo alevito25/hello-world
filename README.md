@@ -1,2 +1,6 @@
-# hello-world
-Yet another repository
+hello-world
+===========
+
+Hi there!
+
+Hello World
